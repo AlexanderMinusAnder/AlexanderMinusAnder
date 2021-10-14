@@ -11,5 +11,5 @@
 
 ## PROGRAMMING LANGUAGES I'M LEARNING
 
-<img align="center" src="https://github.com/Mobzaaz/Mobzaaz/blob/main/githubBanniere.png"/>
+<img align="center" src="https://github.com/Mobzaaz/Mobzaaz/blob/main/qzdzqd.png"/>
 
