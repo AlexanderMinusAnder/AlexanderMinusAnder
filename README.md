@@ -3,11 +3,11 @@
 # Hi there, I'm Mobzaaz.
 
 ## ABOUT ME
--📚 I studied in France (BAC STI2D) and I'm currently learning back-end development
+📚 I studied in France (BAC STI2D) and I'm currently learning back-end development
 
--📋 In the future I plan to work as a freelance developper
+📋 In the future I plan to work as a freelance developper
 
--I speak both French and English
+I speak both French and English
 
 ## PROGRAMMING LANGUAGES I'M LEARNING
 
