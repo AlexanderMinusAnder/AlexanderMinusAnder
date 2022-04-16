@@ -3,7 +3,7 @@
 # Hi there, I'm Mobzaaz.
 
 ## ABOUT ME
-📚 I studied in France (BAC STI2D) and I'm currently learning back-end development
+📚 I'm a student in back-end developpment
 
 📋 In the future I plan to work as a freelance developper
 
