@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-<div padding= 2%>
+<div padding= 50%>
   <p>I go by the name Mobzaaz.</p>
   <p>I'm a programming student 💻.</p>
   <p>Most of my project involved Back-End developping, but I also worked on some Front-End a time or two.</p>
