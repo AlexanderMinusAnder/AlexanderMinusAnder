@@ -15,6 +15,8 @@ Language-wise, I speak both French 🇫🇷 and English 🇬🇧.
   <p>I mostly code in Javascript, and already worked on many NodeJS applications using multiple frameworks (express, React, NestJS, etc...).</p>
 </ul>
 
-<h3>Structuring :</h3>
+<h3>Structuring (databases) :</h3>
 <ul>
   <li><img align="center" width="2%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/> SQL :</li>
+  <p>I've already worked many SQL databases, both creating them, and requesting on them.</p>
+  <li><img align="center" width="2%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png"/> MongoDB :</li>
