@@ -3,13 +3,14 @@
 # Hi there, I'm Mobzaaz.
 
 ## ABOUT ME
-📚 I'm a student in back-end developpment
 
-📋 In the future I plan to work as a freelance developper
+I'm mostly a Back-End developper, but I also do some Front-End a time or two.
 
-I speak both French and English
+Language-wise, I speak both French and English.
 
-## PROGRAMMING LANGUAGES I'M LEARNING
+## PREFERED LANGUAGES
 
-<img align="center" src="https://github.com/Mobzaaz/Mobzaaz/blob/main/qzdzqd.png"/>
+<ul>
+  <li>Javascript</li>
+</ul>
 
