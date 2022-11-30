@@ -11,10 +11,10 @@ Language-wise, I speak both French 🇫🇷 and English 🇬🇧.
 
 <h3>Programming :</h3>
 <ul>
-  <li><img align="center" width="2%" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/> Javascript</li>
+  <li><img align="center" width="2%" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/> Javascript :</li>
   <p>I mostly code in Javascript, and already worked on many NodeJS applications using multiple frameworks (express, React, NestJS, etc...).</p>
 </ul>
 
 <h3>Structuring :</h3>
 <ul>
-  <li><img align="center" width="2%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/> SQL</li>
+  <li><img align="center" width="2%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/> SQL :</li>
