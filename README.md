@@ -2,9 +2,9 @@
 
 ## ABOUT ME
 
-I go by the name Mobzaaz.
-I'm a programming student 💻.
-Most of my project involved Back-End developping, but I also worked on some Front-End a time or two.
+I go by the name Mobzaaz.<br></br>
+I'm a programming student 💻.<br></br>
+Most of my project involved Back-End developping, but I also worked on some Front-End a time or two.<br></br>
 Language-wise, I speak both French 🇫🇷 and English 🇬🇧.
 
 ## PREFERED LANGUAGES
