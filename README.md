@@ -24,3 +24,5 @@ Language-wise, I speak both French 🇫🇷 and English 🇬🇧.
 </ul>
   
 ## MAIN PROJECTS
+
+Work in progress
