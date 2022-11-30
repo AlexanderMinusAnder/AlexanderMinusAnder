@@ -12,7 +12,7 @@ Language-wise, I speak both French 🇫🇷 and English 🇬🇧.
 <h3>Programming :</h3>
 <ul>
   <li>Javascript</li>
-  <img align="center" width="10px" height="10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
+  <img align="center" width="25px" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
   <p>I mostly code in Javascript, and already worked on many NodeJS applications using multiple frameworks (React, NestJS, etc...)</p>
 </ul>
 
