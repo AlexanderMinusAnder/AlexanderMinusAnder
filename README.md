@@ -2,10 +2,12 @@
 
 ## ABOUT ME
 
-<p>I go by the name Mobzaaz.</p>
-<p>I'm a programming student 💻.</p>
-<p>Most of my project involved Back-End developping, but I also worked on some Front-End a time or two.</p>
-<p>Language-wise, I speak both French 🇫🇷 and English 🇬🇧.</p>
+<div padding= 2%>
+  <p>I go by the name Mobzaaz.</p>
+  <p>I'm a programming student 💻.</p>
+  <p>Most of my project involved Back-End developping, but I also worked on some Front-End a time or two.</p>
+  <p>Language-wise, I speak both French 🇫🇷 and English 🇬🇧.</p>
+</div>
 
 ## PREFERED LANGUAGES
 
