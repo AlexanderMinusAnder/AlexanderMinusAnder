@@ -14,27 +14,27 @@
 
 ## TECHNOLOGIES AND FRAMEWORK
 
-# FRONT-END
+### FRONT-END
 
 <ul>
   <li>HTML, CSS</li>
   <li>React</li>
 </ul>
 
-# BACK-END
+### BACK-END
 
 <ul>
   <li>NodeJS</li>
   <li>Django</li>
 </ul>
 
-# MOBILE
+### MOBILE
 
 <ul>
   <li>React Native</li>
 </ul>
 
-# DATABASE
+### DATABASE
 
 <ul>
   <li>PostgreSQL</li>
