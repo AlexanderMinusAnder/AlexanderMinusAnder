@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-<p>My name is Alexandre(—)andre</p>
+<p>My name is Alexander Minus Ander</p>
 <p>I'm a Full Stack web developper</p>
 <p>I speak both English 🇬🇧 and French 🇫🇷</p>
 <p>My motto is "Forget you have no chance and do it"</p>
