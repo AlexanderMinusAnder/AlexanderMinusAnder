@@ -3,13 +3,12 @@
 <p>My name is Alexander Minus Ander</p>
 <p>I'm a Full Stack web developper</p>
 <p>I speak both English 🇬🇧 and French 🇫🇷</p>
-<p>My motto is "Forget you have no chance and do it"</p>
 
 ## PROGRAMMING LANGUAGES
 
 <ul>
+  <li>Java</li>
   <li>Javascript</li>
-  <li>Python</li>
 </ul>
 
 ## TECHNOLOGIES AND FRAMEWORK
@@ -19,13 +18,15 @@
 <ul>
   <li>HTML, CSS</li>
   <li>React</li>
+  <li>Angular</li>
+  <li>VueJS</li>
 </ul>
 
 ### BACK-END
 
 <ul>
   <li>NodeJS</li>
-  <li>Django</li>
+  <li>Spring Boot</li>
 </ul>
 
 ### MOBILE
@@ -38,5 +39,5 @@
 
 <ul>
   <li>PostgreSQL</li>
-  <li>Mongo DB</li>
+  <li>MySQL</li>
 </ul>
